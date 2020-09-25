@@ -1,0 +1,48 @@
+/* TEKNIK CSS UNTUK RESPONSIVE MENGGUANKAN FLOT - by Begus Ibrahim */
+.col1, .col2, .col3, .cols {
+	float:left
+}
+.col1 {
+	width:290px
+}
+.col2 {
+	width:240px
+}
+.col3 {
+	width:252px
+}
+
+#page2 .body2, #page4 .body2, #page5 .body2, #page6 .body2 {
+	background-image:url(../images/bg_top_repeat2.jpg)
+}
+#page2 .body3, #page4 .body3, #page5 .body3, #page6 .body3 {
+	background-image:url(../images/bg_top_img2.jpg)
+}
+#page2 .body1, #page4 .body1, #page5 .body1, #page6 .body1 {
+	background-position:center 164px
+}
+#page2 header, #page4 header, #page5 header, #page6 header {
+	height:192px
+}
+#page2 .col1 {
+	width:420px
+}
+#page2 .col2 {
+	width:419px
+}
+#page2 .line2 {
+	background-position:457px 0
+}
+#page2 #content2 .buttons .button {
+	margin-left:10px
+}
+/* index-2.html */
+#page3 .line1 {
+	background-position:198px 0
+}
+#page3 .col1 {
+	width:160px
+}
+#page3 .col2 {
+	width:685px
+}

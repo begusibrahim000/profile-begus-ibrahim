@@ -1,0 +1,29 @@
+========== BEGUS IBRAHIM | A FULLSTACK WEB DEVELOPER USE LARAVEL FRAMWORK + VUE.JS | 12-06-2020/MALAM KAMIS ==========
+
+Asslamualaikum warohmatullahi wabarokatu
+Pada kesempatan kali ini saya ingin mengajukan tugas submission untuk pelatiahn kelas <belajar-dasar-pemrograman-web /> di dicosing.
+
+Saya membuat website portfolio sebagai developer yang menggunakan tekhnologi HTML5,CSS3 dan JAVASCRIPT kebetulan disini saya menanipulasi menggunakan tambahan libary jquery untuk memanipulasi.
+
+Untuk responsive saya menggunakan tekink FLOAT di 
+
+Aplikasi ini di susun dengan standaar kriteria di coding :
+
+1.Terdapat elemen <header>, <footer>, <main>, <article> dan <aside>.
+2.Masing-masing elemen wajib berisi konten yang peruntukkannya sesuai dengan elemen tersebut (menerapkan konsep semantic HTML dalam menyusun struktur website).
+Sebagai contoh: Header berisi judul dan navigation. Sedangkan konten artikel tidak boleh berada pada Header.
+3.Wajib menampilkan identitas diri (biodata diri) yang minimal harus berisi foto asli diri dan nama sesuai profil Dicoding. Identitas diri wajib ditampilkan dalam elemen <aside>.
+4.Menyusun layout dengan menggunakan float atau flexbox.
+5.Tema yang ditampilkan bebas namun semakin detail dan lengkap website Anda maka nilai submission bisa lebih tinggi.
+
+Sebagai tambahan untuk mempermudah perawatan dan website lebih professional lagi saya menggunakan teknik berbasis COMPONENT.
+
+semoga tugas submission ini diterima.
+
+Terimakasih atas pelayanan pelatihan dicoding yang sangat bagus dan saya sangat suka.
+
+Semoga dicoding lebih berkembang pesat lagi untuk mencetak developer developer expert.
+
+SALAM :)
+BEGUS IBRAHIM
+A FULLSTACK WEB DEVELOEPR
